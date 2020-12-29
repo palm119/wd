@@ -19,7 +19,7 @@ namespace dht11 {
 
     /**
      * get dht11 temperature and humidity Value
-     * @param dht11pin describe parameter here, eg: DigitalPin.P15     */
+     * @param dht11pin describe parameter here, eg: DigitalPin.P8     */
     //% blockId="readdht11" block="DHT11传感器的 %dht11type 值| 连接至 %dht11pin"
     export function dht11value(dht11type: DHT11Type, dht11pin: DigitalPin): number {
 
