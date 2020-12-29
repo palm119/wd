@@ -1,0 +1,14 @@
+{
+    "name": "DHT11",
+    "version": "0.1",
+    "description": "Makecode pxt extension for DHT11 sensor.",
+    "dependencies": {
+        "core": "*"        
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true,
+    "license": "MIT"
+}
